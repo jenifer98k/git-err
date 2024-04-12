@@ -1,0 +1,7 @@
+1. Git is version control  system 
+      ex: whatsapp old logo and new logo 
+
+2. helps you ttrack code changes 
+      ex:
+      
+3. used to collaborate on code 

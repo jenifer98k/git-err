@@ -1,0 +1,20 @@
+github is web based git repository hosting service 
+
+github alternatives 
+1.bitbucket
+2.gitbucket
+
+
+command in command prompt
+$ git config --global user.name "jenifer98k"
+$ git config --global email.name "joyjenifermiracle@gmail.com"
+
+put this github.txt folder nside the git1 folder
+open terminal
+git clone
+go to github.txt insde the github
+green button code click 
+copy origin link
+cd git1git clone https://github.com/jenifer98k/giterr.git
+
+
